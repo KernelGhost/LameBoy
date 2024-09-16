@@ -37,7 +37,7 @@ The console runs a CHIP-8 emulator and comes pre-loaded with 8 games.
 - Li-ion Battery
 - USB-Powered Li-ion Battery Charger with Variable DC Output PCB
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > To ensure stability as well as prevent overheating, it is recommended to power the Arduino Mega with an input DC voltage between 7-12 volts.
 
 ### Getting Started
@@ -63,6 +63,10 @@ You can modify the Arduino code to implement a larger number of buttons. This is
 
 ## Contributing
 Contributions are welcome! Feel free to submit pull requests or issues.
+
+## Acknowledgements
+LameBoy [splash](./Screens/Splash/Splash.bmp) and [error](./Screens/Error/Error.bmp) screens designed by [@gawdn](https://github.com/gawdn).
+All included ROMs are the original work of their respective authors and have been referenced where appropriate. I do not claim ownership of any of these programs. Some ROMs have been modified to enable compatibility with LameBoy.
 
 ## License
 This project is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html).
